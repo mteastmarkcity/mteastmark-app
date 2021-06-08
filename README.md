@@ -1,6 +1,6 @@
 # mteastmark-app
 
-#Intro
+# Intro
 
 Đây là trang hướng dẫn sử dụng extention mteastmark để nhúng vào web với mục đích xem được ảnh 360 panorama!
 
